@@ -5,6 +5,9 @@
 # Dependency directories
 node_modules/
 
+# Keystone build dir
+.keystone
+
 # Logs
 npm-debug.log*
 
